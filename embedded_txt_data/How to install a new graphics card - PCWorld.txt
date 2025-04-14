@@ -1,0 +1,146 @@
+HOT TOPICS Best laptops Best VPN Best antivirus Best SSDs Best monitors Laptop deals Desktop PC deals Newsletters
+When you purchase through links in our articles, we may earn a small commission. This doesn't aﬀect our editorial independence.
+PCWorld helps you navigate the PC ecosystem to ﬁnd the products you want and the
+advice you need to get the job done.
+POLICIES
+Privacy Policy
+Cookie Policy
+Copyright Notice
+European Privacy Settings
+Member Preferences
+Editorial independence
+Licensing & Eprints
+California: Do not Sell my Personal Info
+ABOUT
+About Us
+Advertise
+Ad Choice
+Contact Us
+Foundry Careers
+GamePro
+Smart Answers
+PCWORLD CATEGORIES
+Business
+Laptop
+Mobile
+PC Hardware
+Storage
+Deals
+TechHive
+SUBSCRIBE
+Digital Magazine - Subscribe
+Digital Magazine - Info
+Gift Subscription
+Newsletters
+Copyright © 2025 IDG Communications, Inc. Explore the Foundry Network + Privacy Settings
+Home / How-To / PCs & Components How-To
+UPDATED
+How to install a graphics cardFew improvements add as much punch to a PC as upgrading your graphics card. Here's how.
+By Brad Chacos and Thomas Ryan
+JAN 4, 2021 6:06 AM PST
+Image: Brad Chacos/IDG
+Few upgrades add as much punch to your PC as installing a new
+graphics card. It can transform your PC from a system that chokes on
+lightweight games into a monster that churns through even the most
+visually punishing titles with ease.
+But you need to get that new hardware up and running before you’re able
+to bask in enhanced graphics glory. Here’ s how to upgrade your existing
+computer with a new graphics card, from basic buying considerations to
+step-by-step installation instructions.
+Graphics card buying considerations
+Simply deciding which graphics card you want is a complex and nuanced
+discussion, as both AMD and Nvidia oﬀer choices for virtually every
+budget, from sub-$200 options all the way up to the ferocious $1,500
+GeForce RTX 3090.
+In general, you want the graphics card that oﬀers the most bang for your
+buck, though you’ll also want to consider a card’ s noise, heat, and power
+consumption. While graphics card recommendations are outside the
+scope of this article, PCWorld’ s massive graphics card buying guide can
+help you make an informed decision no matter how much money you
+have to spend.
+Next make sure your computer has the proper hardware to support your
+new card.
+The most common problem that people run into is an inadequate power
+supply: Either it can’t supply enough wattage, or it doesn’t have enough
+available PCI-E power connectors. As a rule of thumb, your power supply
+should at least meet the power supply requirements recommended by its
+manufacturer. For example if you purchased the aforementioned GeForce
+GTX 3090—a  video card that draws 350 watts—you  should have a power
+supply that meets the 750W minimum suggested by Nvidia, along with a
+pair of 8-pin power connectors.
+Further reading: How to pick the best PC power supply
+To ﬁnd out how much wattage your power supply pumps out, open your
+case and look for the standard identiﬁcation sticker all power supplies
+have, which lists their basic info. While you’re there you can also identify
+how many 6-pin and 8-pin PCI-E connectors are available. 
+Finally, is there enough room inside of your case to ﬁt your new graphics
+card? Some high-end graphics card can be over a foot long, and two or
+even three expansion slots wide. You can ﬁnd the physical dimensions for
+a graphics on its product page or on the manufacturer’ s website.
+With all of those questions resolved, it’ s time to get down to business.
+Installing a graphics card
+Installing a graphics card is a straightforward process that requires three
+things: a new graphics card, your computer, and a Phillips-head screw
+driver. Be sure to turn oﬀ your PC and unplug it from the wall before you
+begin.
+EXPLORE FREQUENTLY ASKED QUESTIONS
+Can I install a graphics card on a PC with a low-power power supply?
+What are the top-rated graphics cards for gaming?
+How do I know if my graphics card is compatible with my PC's
+motherboard?
+How do I determine the right power supply for my PC?
+What are the signs that my power supply is not suﬃcient  for my graphics
+card?
+Unless you need to remove an existing GPU, you ﬁrst need to locate the
+long PCI-E x16 slot closest to the heat sink of your processor. This will
+either be the ﬁrst or second expansion slot on your motherboard.
+Make sure that there are no loose wires blocking your access to this slot. If
+you’re replacing an existing graphics card, unplug any cables connected
+to it, remove the screw from its retention bracket on the rear interior of
+your PC case, and then remove the card. Most motherboards also have a
+small plastic latch on the end of the PCI-E slot that locks the graphics card
+in place. Make sure you toggle this latch to unlock your old graphics card
+so you can remove it.
+You can now install your new graphics card into the open and
+unobstructed PCI-E x16 slot. Firmly insert the card into the slot, then push
+down the plastic lock on the end of the PCI-E slot to hold it in place. Next,
+use a screw to secure the graphic card’ s metal retention bracket to your
+PC’ s case. You can reuse the same screw(s) that held the cover bracket or
+your former graphics card in place.
+Most gaming-level graphics cards require additional power connectors. If
+yours does, make sure you connect those PCI-E power cables. Your
+graphics card will not function correctly without properly supplied power.
+In fact, if you don’t connect those PCI-E power cables your PC may be
+unable to boot.
+Wrapping up
+With your graphics card secured and powered up, ﬁnish the job by
+sliding your case’ s side panel back into position and plugging your
+display cable into your new graphics card. Turn on your computer.
+Now it’ s time to take care of the software side of upgrading your graphics
+card.
+If your new graphics card is the same brand as your old card, this process
+is simple. Just go to the manufacturer’ s website and download the latest
+driver package for you operating system. Keep in mind that graphics
+drivers are quite large, generally about 500MB in size, and it make take
+some time for them to download depending on the speed of your
+Internet connection. Install the driver, restart your computer, and now
+you’re ready to enjoy the buttery-smooth framerates your new graphics
+card will no doubt deliver.
+If you’re switching manufacturers (from Intel to AMD, from AMD to Nvidia,
+or vice-versa), uninstall your old graphics driver and restart your computer
+before installing the driver for your new graphics card. If you don’t
+uninstall the old driver it may conﬂict with the new driver.
+Done! That wasn’t so bad, was it? Now that your new graphics card is
+installed, you’re ready to hop into the latest games with your upgraded
+PC. Here are some great free ones to take for a test drive.
+You’re going to need a decent power supply if you want to get your game on.
+AMD’ s Radeon RX 6900 XT .
+You install a graphics card into a PCI-E x16 slot on your computer’ s motherboard (the
+long, black slots in this picture.)
+Don’t forget to lock the latch at the end of the PCI-E slot after ﬁrmly inserting your
+graphics card!
+She needs more power, Captain! Your graphics card won’t run unless you’ve connected
+it to your PSU.
+The Sapphire Nitro+ Radeon RX 6800 XT , plugged in and powered on.
+A.I. SearchAsk your own question...
+NEWS  BEST PICKS  REVIEWS  HOW-TO  DEALS LAPTOPS WINDOWS SECURITY TECHHIVE  MORE

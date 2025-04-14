@@ -1,0 +1,128 @@
+Increase the overall speed of your PC, the time it takes to boot and load programs by following our simple guide to installing a solid
+state drive. Having successfully helped thousands of people of all ages, backgrounds, and computer-skill levels install SSDs, we’re
+confident that you too, will be able to expertly install an SSD in your desktop PC. Installing an SSD requires little more than a
+screwdriver and your system’s owner’s manual, so let’s install an SSD in your desktop computer. 
+Transferring data to your new hard drive
+If you are replacing your existing drive, we recommend the use of data migration (cloning) software to move all the files from your
+existing drive onto your new hard drive. Data migration software is available here at Crucial.com.
+To install an SSD in a Mac  system, the process is different – follow our Mac-specific SSD install steps here.
+Desktop SSD installation instructions
+1.    Make sure you’re working in a static-safe environment
+ Remove any plastic bags or papers from your work space.
+2.    Gather supplies
+2.5-inch Crucial SSD
+Screwdriver
+Your computer’s owner’s manual (which will specify the type of screwdriver you need)
+3.    Shut down your system
+When your system has been powered off, unplug the power cable.
+4.    Hold down the power button for 5 seconds to discharge residual electricity 
+5.    Open your desktop’s case
+Refer to your system’s owner’s manual for how to do this.
+6.    Ground yourself by touching an unpainted metal surface
+This is an extra safeguard that protects your drive and components from static damage during the installation process.
+7.    Locate the storage bay
+Refer to your owner’s manual for the exact location and note the size of the bays.
+Some storage bays and existing hard drives are significantly larger than a standard size SSD. If this is the case in your system, you’ll
+need a 2.5-inch to 3.5-inch converter to make the SSD fit snugly. Remove your old drive and disconnect any cables and brackets
+attached to it.
+8.    Plug the SSD into your system
+ Don’t force the connection – it should plug in easily and fit snugly.
+To install the SSD as a secondary drive (not your primary or boot drive), use a SATA cable and attach one end of the cable to the
+SATA connector on your motherboard. Attach the other end of the SATA cable to your Crucial SSD. Then, use an available SATA
+power cable coming from your system’s power supply and connect the cable to your Crucial SSD. For either type of install, consult
+your owner’s manual for how to remove an existing drive (if necessary), and how to handle the cables.
+9.    Reassemble your desktop
+10.    Power on your computer 
+Your SSD is installed!
+Have some fun and see how much faster your desktop boots up and apps load! You can make your SSD even faster by downloading
+our Crucial Storage Executive software and enabling the Momentum Cache feature. Click here to download Storage Executive.
+FAQs & Troubleshooting
+Enable the Momentum Cache feature in Storage Executive to get up to 10x faster performance, validated by testing included in the “Enhance Burst
+Performance on Micron and Crucial SSDs Using Momentum Cache” whitepaper.
+2017 Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. Neither Crucial nor
+Micron Technology, Inc. is responsible for omissions or errors in typography or photography. Micron, the Micron logo, Crucial, and the Crucial logo are
+trademarks or registered trademarks of Micron Technology, Inc. Mac is either a registered trademark or trademark of Apple, Inc in the United States
+and/or other countries. All other trademarks and service marks are the property of their respective owners.
+Sign up today and join our newsletter. Stay in the know with Crucial and our latest
+products!
+Contact Us
+United Kingdom
+© 2025 Micron Technology, Inc. All rights reserved
+How to install a solid
+state drive (SSD) in a
+PC
+®
+Warning!  Warning!  Warning!  Warning!   —         Static electricity can damage the components in your system. To protect your system’s components from static
+damage during the installation process, touch any of the unpainted metal surfaces on your computer’s frame or wear an ESD
+wrist strap before touching or handling internal components. Either method will safely discharge static electricity that’s
+naturally present in your body.
+How to install an SSD safely
+To protect your new SSD, do not touch the connectors on the drive.
+Do not open the SSD. Doing so will void your warranty.
+Watch on
+Part 1/4: How to install an SSD in a laptop or desktop (preparation phase)
+Share
+® 
+1
+Why isn't my SSD showing up in BIOS or Disk Management?
+How do I initialize a new SSD?
+How do I format my SSD?
+Why is my SSD making noise?
+1
+©
+Shop Storage Now
+Related Articles
+The M.2 Form Factor with
+PCIe® and SATA interfaces
+Confused about M.2, PCIe, SATA and NVMe
+SSDs? The experts at Crucial explain all you need
+to know about form factors, physical interfaces
+and more.
+Read more
+How to Find the Best SSD for
+Your Laptop
+Laptop SSDs need to be compatible for form
+factors and connection protocols and cover your
+data needs. Find the best SSD drive for your
+laptop with Crucial.
+Read more
+What is an NVMe SSD?
+Want to know more about NVMe SSDs? Discover
+with Crucial what an NVMe does, the benefits of
+NVMe SSDs and how they differ from other
+storage devices.
+Read more
+SubmitEnter EmailEmail address*
+Legal
+Terms of use
+Your Privacy Choices
+Privacy Notice
+Compliance
+Sustainability
+Customer Service
+Contact
+Product registration
+Warranty Status
+Resources
+Upgrades
+Storage Executive
+Acronis Data Transfer
+Firmware updates
+FAQs
+Crucial
+About Us
+Awards
+Press
+Articles
+Innovative memory and storage solutions direct from Micron for 45 years.
+Shop RAM Shop SSDs Solutions Support
+ Upgrade Computer Search
+Stay connected with Crucial!
+ 
+Sign up today to receive the latest product updates, tech
+insights, and innovations from Crucial.
+ 
+ 
+Email submit
+✕
+Email

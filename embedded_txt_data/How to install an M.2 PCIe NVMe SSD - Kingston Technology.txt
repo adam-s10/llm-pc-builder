@@ -1,0 +1,207 @@
+Jul 2021 PERSONAL STORAGE PC PERFORMANCE SSD M.2 NVME CLIENT SSD Blog Home
+Installing a Kingston M.2 SSD (Solid-State Drive) is easy and will boost the performance of your computer significantly. Follow the steps below to
+speed up your device and free up storage.
+Step 1: Preparing your workspace
+You’ll need to prep your workspace to install your new Kingston SSD safely
+and properly. Clearing your workspace of anything that can build up static
+electricity is important since it can damage your new M.2 drive.
+1. Gather your supplies. You’ll need your computer, a screwdriver and your
+new Kingston SSD, along with your computer’s owner’s manual.
+2. Back up your important files. Before installing your SSD, save your
+important files from your old computer storage to an external SSD, a
+USB flash drive or Cloud storage.
+3. Take your time. You now have everything you need to install your new
+M.2 SSD. Your computer might look slightly diﬀerent to the ones shown
+but the process should be the same. Read each step carefully. If you
+have diﬃculty identifying your computer components, refer to your
+computer’s owner’s manual.
+Helpful tip: NVMe SSD support and drivers are not supported by Windows® 7. Try
+contacting your computer or motherboard manufacturer for further assistance.
+Microsoft® oﬀers hotfix support for Windows® 7 that can natively support NVMe
+drives.
+Step 2: Installing your M.2 SSD
+1. Shut down your computer completely.
+2. Remove the power cable and battery. Only remove the battery if you’re
+installing a M.2 SSD into a laptop/notebook. Refer to your owner’s
+manual to see how to safely remove the battery.
+3. Discharge your battery. You’ll want to discharge potential static
+electricity that might be built up in your laptop battery. Remove the
+battery and hold the power button on your laptop/notebook for five
+seconds to discharge any residual electricity.
+4. Open the computer case. Each case is designed diﬀerently, so refer to
+your owner’s manual to see how to properly open your case.
+5. Ground yourself as a precautionary step. Touch a metal surface that’s
+clear of any paint or coating to discharge any electricity that’s present in
+your body.
+6. Find the M.2 PCIe slot, which should be easy to spot in a desktop
+computer. For laptops/notebooks, the M.2 PCIe slot is usually under the
+bottom panel or under the keyboard. Check your owner’s manual for
+further assistance.
+7. Insert your Kingston M.2 SSD carefully by holding the SSD by the sides.
+Make sure to avoid touching the gold connector pins. Align the connectors on the SSD with those on the PCIe slot and insert the M.2 SSD at a
+30-degree angle. It should connect easily without you having to force the connection.
+It might be necessary to screw the M.2 SSD to the mount on the PCIe slot to secure it in place. Be careful not to overtighten the screw or you
+can risk damaging the SSD. It’s a good idea to refer to your owner’s manual for this step.
+8. Reassemble your computer. After installing the M.2 SSD, put your desktop computer back together. If you’re working with a laptop or
+notebook, remember to put your battery back in if you removed it.
+9. Turn on your computer. Your computer should be booting up from your old storage drive, unless you removed it before installing your new
+SSD. Now it’s time to clone the data from your old storage drive to your new M.2 SSD.
+Step 3: Cloning your M.2 SSD
+1. Download the cloning software. If you didn’t receive the Acronis
+Cloning software as part of a Kingston SSD bundle kit, download the
+Acronis Cloning software here. You’ll need to activate the software by
+creating an account and following the activation instructions.
+2. Start the application. Once you’ve completed activating Acronis Cloning
+software, launch the Acronis True Image OEM application and click
+Clone Disk.
+3. Select Clone Method. Select the Automatic clone method and click
+Next.
+4. Select Source Disk. Select the source disk that you wish to clone from
+and click Next.
+5. Select Destination Disk. Select the destination disk that you wish to
+clone to and click Next.
+6. Summary. Confirm that you have selected the correct source and destination disks. You may also review the changes to the destination disk
+under Before and After. Click Proceed to begin the data transfer operation.
+7. Data transfer. A notification will appear letting you know it is time to restart your computer. Close any other open applications and click
+Restart when you are ready.
+The system will boot into the Acronis cloning application and the data transfer operation will begin. When the data transfer is complete, your
+computer will shut down.
+8. The cloning process is now complete. While the computer is completely shut down, you can remove your old storage drive. Once you turn
+your computer on again, it will boot up from your new M.2 SSD.
+Step 4: Download the SSD Manager
+Kingston® SSD Manager is an application that provides users with the ability to monitor and manage various aspects of their Kingston SSD. You’ll
+be able to monitor the drive health, status and disk usage.
+Download the Kingston SSD Manager and follow the installation process here.
+1. Once downloaded, launch the SSD Manager.
+This software allows you to monitor the device information and health status. You can improve the performance of your new SSD by using the
+system resources.
+2. Run the SSD Manager software and follow the installation process. When launching for the first time, the SSD Manager will scan your
+computer for disk drives.
+3. You have now completed installing the Kingston SSD Manager. It may require you to restart your computer after completing the installation.
+Congratulations on installing your new Kingston M.2 SSD! You’ll be able to experience the storage advantages of the SSD and see an
+improvement in your computer’s performance from boot times to storage recall speeds.
+#KingstonIsWithYou
+Was this helpful?
+Related Videos
+How to install an M.2 SSD in a laptop
+It’s easy to install an M.2 SSD into a laptop
+computer. We’ll show you how.
+How to install an M.2 SSD in a desktop
+PC
+It’s easy to install an M.2 SSD into a desktop
+PC. We’ll show you how.
+How to install an NVMe SSD in a laptop
+We show you each step to formatting and
+erasing an SSD or HDD.
+Install an internal M.2 into an external
+enclosure
+You can make SSD enclosures that are less
+expensive than you might think.
+1:29
+ 1:10
+ 3:22
+ 4:52
+Related Products
+• PCIe 4.0 NVMe
+• M.2 2280 form factor
+• 512GB, 1024GB, 2048GB, 4096GB
+• Up to 7,000MB/s read, 7,000MB/s write
+Learn more Buy
+• Ideal for gamers and PC enthusiasts
+• PCIe 4.0 NVMe M.2 2280
+• 500GB, 1TB, 2TB, 4TB
+• Up to 7,300MB/s read, 7,000MB/s write
+Learn more Buy
+Related Articles
+Blog Home
+How to install a 2.5” SSD –
+Kingston Technology
+Installing an SSD is easy and can
+improve the overall speed of your
+desktop PC or laptop.
+Installing an M.2 SSD in a
+PlayStation® 5
+Get more storage in your PS5™  with a
+simple upgrade using the empty M.2
+slot.
+How to optimise your PC for
+better performance
+Upgrading your RAM and SSD can
+help improve your overall PC
+performance.
+How does hardware-based SSD
+encryption work? Software vs
+hardware, AES 256-bit and TCG…
+Opal 2.0Secure important personal and
+private information on a PC with a
+hardware-encrypted SSD.
+The difference between SSD and
+HDD
+Why should you choose an SSD over
+an HDD? The main factor is better
+performance from SSDs.
+How much memory do you need
+for video editing?
+More DRAM means faster PC
+performance when editing from
+video, from playback responsivenes…
+to render time. But is 8, 16, 32 or 64GB
+enough? How much do you need for
+1080p, 4K, or 8K?
+NVMe vs SATA: What is the
+difference?
+NVMe is the new protocol for flash
+storage while SATA was a hold-over
+from HDD.
+Top 4 SSD buying mistakes
+Don’t pick the wrong type of SSD for
+your server. A wrong choice means a
+higher cost of ownership. Learn to…
+pick the right SSDs.
+PC PERFORMANCE |  PERSONAL STORAGE |  SSD |    
+GAMING |  M.2 |  PERSONAL STORAGE |  KINGSTON FURY |  
+PC PERFORMANCE |  DIY PC |  MEMORY |  CLIENT SSD |  
+PERSONAL STORAGE |  CLIENT SSD |  DATA SECURITY
+NVME |  SATA |  CLIENT SSD |  PC PERFORMANCE |  
+PC PERFORMANCE |  PERSONAL STORAGE |  MEMORY |   
+NVME |  PC PERFORMANCE |  SSD |  SATA |   
+ENTERPRISE SSD |  CLIENT SSD |  SERVERS/DATA CENTRES |   
+More
+ACCOUNT
+View Basket
+Log In/Register
+COMPANY
+About
+Careers
+Contact
+Press
+Partner Program
+COMPLIANCE
+Corporate Compliance
+Environmental compliance
+Management Systems
+SUPPLY CHAIN MANAGEMENT
+Sustainability
+Code of Conduct
+Modern Slavery Statement
+LEGAL
+Terms of Use
+Privacy Policy
+Cookie Policy
+Warranty
+SITE
+Main Site
+Shop Kingston US
+Feedback
+SUBSCRIBE
+Keep in touch! Sign up to
+our emails for Kingston
+news and more.
+     
+©2025 Kingston Technology Europe Co LLP and Kingston Digital Europe Co LLP , Kingston Court, Brooklands Close, Sunbury-on-Thames, Middlesex, TW16 7EP , England. All rights reserved. All trademarks and registered trademarks are the property of their respective owners. United Kingdom
+Sign up now
+How to install an M.2 PCIe NVMe SSD
+Watch Video
+KC3000 PCIe 4.0 NVMe M.2 SSD Kingston FURY Renegade PCIe 4.0 NVMe M.2 SSD
+Sort by Default
+

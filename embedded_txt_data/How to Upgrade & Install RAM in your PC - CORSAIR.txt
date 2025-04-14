@@ -1,0 +1,146 @@
+English
+GUIDES & ARTICLES SOFTWARE BUILD SHOWCASE
+BLOG
+How to Upgrade & Install RAM in your PC
+Last updated: November 11, 2024
+As time goes by and your needs change, upgrading your PC's RAM is a great option .
+Installing RAM is both one of the simplest steps while assembling a PC and is one of the easiest ways to
+upgrade one too. With nearly all cases you don't have to worry about cables, as long as your RAM module is
+compatible with your motherboard's slots, all you have to do is to either change the existing RAM stick or to
+install additional ones.
+However, there are several different options, and for each there are key points to check prior. This guide has
+been created to help you make sure that you pick RAM that is compatible with your motherboard or laptop.
+How To Upgrade RAM On Your Desktop PC
+You must ﬁnd the answers the following questions ﬁrst:
+What is the motherboard model?
+Which CPU is installed on your motherboard?
+How much RAM is supported by your motherboard/processor combination?
+What type of memory does your motherboard support?
+Do you have free memory slots on your motherboard?
+If you have a large air cooler for your CPU, make a note of the RAM height clearance before choosing the
+memory.
+Which memory modules are currently installed? Determine the type, quantity, capacity, frequency,
+latency and brand.
+For the ﬁnal point, we've included two examples below:
+DIMM, DDR5, 16GB, 6000MHz, CL30, CORSAIR
+DIMM, DDR4, 8GB, 3200MHz, CL16, CORSAIR
+We've also written a dedicated article to help you decode the CORSAIR part number yourself.
+Once you have the answers to all the questions, you are presented with two options: replace the RAM
+modules that are already installed, or install additional RAM modules.
+Although the ﬁrst option is more costly, it is the only way to guarantee compatibility between the RAM
+modules as for CORSAIR these are speciﬁcally tested to work together.
+The second option allows you to upgrade at a lower cost, but there is a risk of incompatibility between the kit
+already in your machine and the new one you intend to add. This is especially important for when you use
+memory modules with a higher frequency than certiﬁed by the CPU manufacturer.
+How to Install RAM
+Step 1: Locate the RAM slots on your motherboard - they're usually next to the CPU. The number of slots
+available varies between two and eight, with four being the most common. However, you can't just put your
+RAM in any slot. Each slot is numbered, and you must install your RAM in the following order A1, B1, A2, B2
+(Red Square). You can ﬁnd the slot numbers in your motherboard manual or on the motherboard itself.
+Note : that slots A1 and B1 usually work together, as do A2 and B2, and that they are often arranged as
+follows A1 - A2 - B1 - B2. If this is confusing, concentrate on ﬁnding the ﬁrst slot. If you're using a dual-
+channel kit, you'll be able to identify the second one later, either by the number or the color of the slots.
+Once you've identiﬁed the slots, open the small plastic clips ( Orange Square) by pushing them outwards.
+Step 2: Align the small notch on your RAM with the notch on the slot. The notches on DDR3, DDR4, and
+DDR5 are positioned differently, so if you bought the wrong one, you'll know as it won't ﬁt.
+Step 3: Insert the stick downwards and press ﬁrmly on its edges until you feel and sometimes hear a click.
+The clips on both sides should sit correctly to hold the RAM stick in place. Repeat with the other RAM sticks,
+following the slot numbers accordingly.
+How To Upgrade RAM For Your Laptop
+As with upgrading the RAM in a PC, you must consider a few things ﬁrst.
+Which is the exact brand and model of your laptop?
+How much memory does your laptop model support?
+Which RAM format does your laptop use? (SODIMM is the most common format)
+Does your laptop have an empty slot available, or do you have to replace existing RAM?
+There are laptop models that have memory soldered onto the motherboard only and do not have
+additional slots to expand RAM. If this is the case, it is not possible to increase the memory capacity.
+Which module(s) are present? Determine the type, quantity, and frequency of the module(s)
+Once you've successfully found the answer to the above questions, it's time to choose the memory. If you
+don't have a free slot available, you will have to replace the existing module(s). In this case, it is advisable to
+choose the same frequency and key speciﬁcations of the already installed modules but with a higher
+capacity that is compatible. Do not exceed the maximum memory supported, as this can lead to for example
+your laptop not booting at all.
+If you have a free slot, you'll need to choose a module with the same type, capacity, and frequency as the
+one already installed, and the same goes for soldered memory.
+How To Install SODIMM RAM
+Step 1: Locate the memory slots, which are generally in a horizontal position, unlike standard DIMM slots
+which are vertically mounted. If your PC has more than one memory slot, start with the bottom one. Take a
+SO-DIMM RAM memory module and align the notch with the slot.
+Step 2: Insert the RAM into the slot until the connectors are fully seated. It may appear to be at an odd
+angle, but don't worry, it won't bend.
+Step 3: Gently but ﬁrmly push the RAM in until the small metal pins on each side snap into place. Repeat
+this with the other bars, and if you ever want to remove them, pull on the metal pins until they release. Then
+simply remove the RAM from the slot.
+If you ever need to remove your RAM, simply press the clips on each side to release the RAM, then pull the
+RAM stick out of the slot.
+PRODUCTS IN ARTICLE
+VENGEANCE DDR5
+SODIMM 32GB (1x32GB)
+DDR5 4800MT/s (PC5-
+38400) CL40 1.1V LEARN MORE
+ BUY NOW
+VENGEANCE® Series
+64GB (2 x 32GB) DDR4
+SODIMM 2666MHz CL18
+Memory Kit LEARN MORE
+ BUY NOW
+VENGEANCE RGB PRO SL
+16GB (2x8GB) DDR4
+DRAM 3600MHz C18
+Memory Kit – White LEARN MORE
+ BUY NOW
+RELATED CONTENT
+BLOG
+WHAT PLATFORMS
+SUPPORT ECC MEMORY?
+HOW TO
+IS DDR5 WORTH IT?
+HOW TO
+DDR4 VS DDR5 RAM:
+WHAT'S THE DIFFERENCE?
+HOW TO
+IS DDR5 BACKWARDS
+COMPATIBLE?
+HOW TO
+IS DDR5 GOOD FOR
+GAMING?
+HOW TO
+IS 32GB OF RAM
+OVERKILL?
+Get special offers, exclusive product news, and event info
+straight to your inbox.
+Enter your email SIGN UP
+SHOP
+New Products
+Special Offers
+Corsair.com Exclusives
+Where to buy
+Certiﬁed Refurbished
+Business Solutions
+EXPLORE
+PC Builder
+CORSAIR Innovation
+Design Your Loop
+Best Gaming Accessories
+Intel 14th Generation Upgrades
+AMD AM5 Upgrades
+DDR5 Memory
+Ambassadors
+CORSAIR
+About
+Investor Relations
+Supply Chain Disclosure
+Careers
+Social Impact
+Press Room
+Contact Us
+Explorer
+SUPPORT
+Downloads
+Customer Support
+Warranty
+Shipping/RMA/Returns
+Terms of Sale
+Copyright © 1996 - 2025 CORSAIR. All rights reserved.
+Search
++ +

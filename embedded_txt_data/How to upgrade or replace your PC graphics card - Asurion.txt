@@ -1,0 +1,172 @@
+Everything you need to know when
+upgrading or replacing your PC
+graphics card
+If you go to play Fortnite and it looks like something from 1993, it might be time for a better graphics
+card. But where exactly do you start? Don't worry, we've got you covered.
+At Asurion, we provide support for all of your tech care needs—from protection to repairs and
+performance boosts for your device. Here's a guide from our experts on everything you need to know
+before attempting to replace or upgrade your computer’s graphics card.
+Things to consider before you buy a new graphics
+card
+Whether you're an avid gamer or a video editor, a powerful graphics card can have a big impact on
+your computer. When you start a game or movie, data is sent over from your computer's processor.
+That data is passed through a graphics card and turned into what you see on screen. The better the
+card, the better the visuals you'll get.
+Before you look for a Phillips head screwdriver and try to replace the graphics card in your PC, here
+are a few things you should consider.
+Can your computer support a new graphics card?
+When upgrading your PC graphics card, you could run into a common problem: an inadequate power
+supply. Either your computer doesn't have enough wattage, or it doesn't have a sufficient number of
+peripheral component interconnect express (PCI-e) power connectors. They will have either six or
+eight pins, depending on the make and model.
+Your computer's power supply should at least meet the requirements recommended by the graphics
+card manufacturer. If you built your PC yourself, you should have an idea of what kind of power supply
+you're working with.
+If you didn't, you can open your case and look for the standard identification sticker that lists its
+wattage information. While you've got that case open, take a peek at how many PCI-e power
+connectors you have available as well.
+You can’t work when your
+computer doesn’t want to
+Get it repaired fast at one of our stores. Just stop
+in or make an appointment⎯we'll handle the rest.
+Schedule a repair
+Does your computer have enough processing power?
+If your computer is on the older side, it's worth checking to see whether its processor has enough
+power to handle the new graphics card. A high-end graphics card can't do much if the processor isn't
+fast enough to keep up. Instead of increasing performance, it might reduce it instead.
+You can find out how much RAM your PC has by opening the Start menu, typing “About your PC" into
+the taskbar, and scrolling to the installed RAM information. 16 Gigabytes of RAM is the recommended
+amount for playing most online games.
+Check out our guide to get an idea of just how much RAM your computer needs.
+Will the new graphics card fit inside your computer?
+Depending on the manufacturer, some graphics cards can be significantly larger than what your PC
+can hold. Before committing to a graphics card, look for the physical dimensions of a card on its
+product page or on the manufacturer's website—a larger fan shroud or heatsink could mean that you
+need more than one slot to accommodate your new card.
+How to remove your old graphics card
+Replacing your computer's graphics card may sound like an easy DIY project, but it can be difficult if
+you're not familiar with the parts that make up your computer or if you don't have the right
+equipment. If you don't have experience repairing electronics, we recommend you reach out to a
+computer repair expert.
+1. Start by powering off the PC and disconnecting the power cable from the tower. Discharge any
+static by tapping the side of the PC case or wear an anti-static wrist strap. Grounding yourself
+prevents your body from acting as a static electricity source, which could damage your
+components.
+2. Open the side panel on the PC case. Some panels have clips that are easy to unlatch, and others
+have screws that need to be removed.
+3. Remove any power cables connected to the graphics card. Press on the little plastic clip or latch
+on the side and proceed by pulling out the PCI-e cable. Higher-end computers may have more
+than one PCI-e power connector.
+4. Using a screwdriver, remove the screw(s) holding the graphics card into the slot.
+5. Before you can remove the graphics card, you'll have to release the PCI-e slot tabs that hold the
+graphics card in place. The tabs are located underneath the graphics card, on the back side of the
+PCI-e slot. Press on the protruding part of the tab to release it.
+6. Now, you can remove the graphics card. If you plan to keep the old card, be sure to put it in an
+antistatic bag for safe storage.
+How to install your new graphics card
+1. Place the card in the slot, and press down gently until it locks into place. Make sure it fits into the
+slot with both sides sitting flush. When it's in correctly, the tab on the slot will hold it in place.
+2. Secure the new graphics card to the slot with the screws that were removed earlier.
+3. Connect the power cables to the graphics card.
+4. Close the PC case.
+5. Reconnect the power supply and startup the PC.
+6. When the PC starts up for the first time after installing a new graphics card, it'll search for the
+drivers—the files needed for communication between the graphics card and the computer's
+operating system. To get the most use out of the new graphics card, opt for using the latest
+drivers.
+The Asurion® trademarks and logos are the property of Asurion, LLC. All rights reserved. All other trademarks are the
+property of their respective owners. Asurion is not affiliated with, sponsored by, or endorsed by any of the respective
+owners of the other trademarks appearing herein.
+Laptop PC Home Tech SHARE THIS ARTICLE
+You may also be interested in:
+How to add a monitor to your laptop 
+Learn how to easily connect an external monitor to your
+laptop and what to do if your computer has trouble
+detecting it, plus how to use your iPad as a second
+monitor.
+5 hidden laptop features you should be
+using now
+Learn to get the most out of your PC laptop with these
+hidden tricks and features.
+Clean your laptop keyboard with these
+simple steps
+Learn how to disinfect sticky keys with these instructions
+on how to safely clean your laptop keyboard.
+Protection Plans
+Mobile Protection
+iPhone Protection
+Samsung Phone Protection
+Mobile Protection Features
+Mobile Protection FAQs
+Asurion Home+
+Asurion Home+ Features
+Asurion Home+ FAQs
+Asurion Appliance+
+Asurion Complete Protect
+Repair Services
+Cracked Screen Repair
+Tech Repair
+Tech Help
+Tech Tips
+Start or Track a Claim
+How to File a Claim
+Mobile App Center
+Tech Help
+Tech Service Features
+Tech Expert Stories
+Tech Help FAQs
+Extended Warranties
+Warranty Features
+Warranty FAQs
+TV and Home Theater
+Laptop and Computer
+Home Appliances
+Electronics
+Tablet and eReader
+About Asurion
+About Asurion
+Leadership
+Corporate Responsibility
+Partnerships
+Recognition and Reviews
+Careers
+Newsroom
+Life at Asurion
+Contact Asurion
+Terms of Use Asurion Privacy Notice Cookie Preferences © Asurion 2025
+We believe your tech should work
+With Asurion, enjoy peace of mind knowing your
+tech is protected with fast repairs and expert
+support—from your phone to your fridge.
+Learn more
+Related Articles
+AMAZON
+What to do when Fire
+Stick is not connecting to
+Wi-Fi
+GOOGLE
+How to easily transfer
+data from your old
+phone to your new
+Google Pixel
+AMAZON
+How to reset a Fire TV
+Cube
+Follow Us
+Get the latest news and tech how-to's.
+The devices we love aren’t
+cheap. Protect them with
+Asurion Home+.
+With Asurion Home+®, you can get coverage for thousands
+of eligible devices plus 24/7 live support from trusted
+experts.
+Learn more
+Claims Get tech support Repair a device Protection plans Claims
+Asurion uBreakiFix Stores My Account
+1
+Upgrade or replace your
+PC's graphics card?
+Here's how.
+Upgrade/Replace graphics
+card
+Tackle another issue
