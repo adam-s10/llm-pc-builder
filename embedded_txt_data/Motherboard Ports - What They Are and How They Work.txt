@@ -1,0 +1,255 @@
+More from Lifewire
+ACCESSORIES & HARDWARE
+How to Choose a
+Motherboard: 7 Factors to
+Consider
+ACCESSORIES & HARDWARE
+Motherboard Drivers:
+What They Are and How to
+Identify Them
+ACCESSORIES & HARDWARE
+What Does a Motherboard
+Do?
+HDD & SSD
+What Is CMOS and What
+Is It For?
+ACCESSORIES & HARDWARE
+How to Check RAM and
+Motherboard Compatibility
+CARDS
+What Is a Video Card?
+ACCESSORIES & HARDWARE
+What Is an Expansion Slot?
+ACCESSORIES & HARDWARE
+Motherboard Fan
+Connectors: What They
+Are and How They Work
+CARDS
+What Is a Sound Card?
+ACCESSORIES & HARDWARE
+What's a Safe Motherboard
+Temperature?
+ACCESSORIES & HARDWARE
+Motherboard RAM Slots:
+What They Are and How to
+Use Them
+ACCESSORIES & HARDWARE
+What Should I Upgrade on
+My PC?
+ACCESSORIES & HARDWARE
+Motherboard Standoffs:
+What They Are and When
+You Need One
+ACCESSORIES & HARDWARE
+What Is an IDE Cable?
+ACCESSORIES & HARDWARE
+How to Replace a
+Motherboard
+ACCESSORIES & HARDWARE
+What Motherboard Do I
+Have? 4 Ways to Find Out
+Motherboard ports are the inputs or connection points where
+components plug into, including the rear ports at the back of a
+computer. 
+If you’re replacing an internal hardware component or upgrading for
+better performance, you must remove the existing equipment from its
+dedicated motherboard port. To install new components, you do the
+opposite and plug the new component(s) into a dedicated port. 
+There are also external ports located on the rear of the motherboard,
+for plugging in and disconnecting peripherals. Without opening the
+case, you can plug a mouse, keyboard, or external hard drive into the
+top or rear USB ports, for instance.
+There are several types of internal ports including PCI-e, SATA, CPU,
+and so on. There are also external ports like USB, PS/2, RJ-45, and
+beyond. Both are referred to as ports.
+What's Inside a Computer? What Plugs Into
+the Motherboard?
+Inside a computer chassis or case is a collection of components,
+including a motherboard, CPU or processor, RAM, graphics card,
+and more. Collectively, these components make up a computer and
+are what allow it to run. The motherboard is the skeleton or frame that
+connects all of the individual components.
+Motherboard ports are the various connection points where all of
+those components connect and plugin. For example, RAM slots are
+one type of port, usually located close to the CPU, and they are where
+you’d plug-in memory modules.
+In short, all computer components plug into one of the motherboard
+ports, and the motherboard rests inside the chassis — what you may
+know as a computer tower.
+What Ports Are on a Motherboard?
+To make things a little easier, we’re going to separate the ports into
+two categories: Internal and external.
+Internal vs. External Motherboard Ports: What's the
+Difference?
+Internal ports are for the core components of a computer which reside
+inside the case. External ports are for peripherals and they reside
+outside the case, usually at the rear.
+If you wanted to install an external hard drive by plugging it into a
+USB port, you would be using one of the external ports, generally
+located on the back of the motherboard which would be at the rear of
+the computer as you use it.
+However, if you wanted to install an internal hard drive, including a
+solid-state drive, you would need to open the case and plug it into
+one of the internal ports on the motherboard. The same is true for
+expansion slots, where you might plug in something like a better
+graphics or additional RAM.
+Laptops also have a motherboard inside, but due to their compact
+size you are usually limited by what you can upgrade or install.
+Internal Motherboard Ports
+Here are some of the most common internal ports on a modern
+motherboard:
+There may be additional ports such as a COM/Serial header, TPM
+header, or RGB headers. Some ports will not be used, and sometimes
+there are redundant connections.
+External Motherboard Ports (Rear Ports)
+Here are some of the most common external ports on a modern
+motherboard:
+What Are the Types of Ports on a
+Motherboard?
+There are a few different types of ports or connections on a
+motherboard you need to be aware of.
+Chipsets or sockets
+Main component connectors
+Expansion slots
+Rear ports
+A CPU socket is where the processor is plugged in, while chipsets
+include pre-installed processing chips. They might be for audio,
+video, or hardware enhancements depending on the make and model
+of the motherboard. Some chipsets are designed to be compatible
+with only one of the major CPU manufacturers, like Intel vs. AMD.
+The main component connectors are the primary ports on a
+motherboard, and they’re used for core components. Examples
+include RAM slots, SATA connectors, fan slots, and so on.
+Expansion slots refer to the additional ports for plugging in extra
+hardware like graphics cards, solid-state drives, audio cards, and
+more.
+The rear ports are all of the rear connectors used to plug in
+peripherals and external devices.
+What Is a Motherboard Form Factor?
+The form factor is basically the size of the motherboard, of which
+there are 3 main classifications. The largest is ATX, followed by micro-
+ATX, and finally mini-ATX.
+The larger the motherboard, the more support it has for internal
+hardware and peripherals. ATX boards, for example, often include
+support for multiple graphics cards and expansion cards, whereas
+mini-ATX only supports 1 or 2. Larger boards have more ports.
+The large boards, like ATX and micro-ATX motherboards, also require
+larger cases, or computer towers to accommodate both the bigger
+size and the added components that will be plugged into them.
+What Is the Motherboard Chipset?
+A motherboard chipset can mean a couple of things, like what
+additional hardware is supported. Typically, however, when someone
+refers to the chipset they are talking about the mainboard support or
+processor. Motherboards with AMD chipsets, for instance, are
+designed to work with AMD’s processors, while motherboards with
+Intel chipsets are designed to work with Intel’s processors.
+With each type of chipset, there are different compatibilities, as both
+Intel and AMD have released a huge variety of processors to the
+market, and continue to do so.
+How Do I Choose the Right Motherboard?
+If you’re thinking about upgrading or installing a new motherboard,
+there are a few things you’ll need to decide first.
+What type of processor do you want? If you go with AMD you’ll need
+to find an AMD-compatible motherboard with the appropriate CPU
+socket and chipsets. The opposite is true if you want an Intel
+processor.
+What kind of expansion opportunities do you want? The more
+expansion slots available on the motherboard, the more components
+you can add later like a graphics card, sound card, or something else.
+Do you want to use a solid-state drive? How many internal hard drives
+do you plan on installing? Make sure there are enough SATA ports
+and M.2 connectors for what you want.
+Finally, how big or small do you want the computer to be? If you want
+something super compact, you’ll be looking at mini-ATX boards,
+which are also limited in terms of what you can install. They have
+fewer expansion slots and sometimes fewer rear ports.
+FAQ
+Type cmd into the Windows search bar to open Command Prompt.
+Type in wmic baseboard get product,Manufacturer  and press
+Enter. You should see your motherboard manufacturer and model
+displayed. If it doesn't work, make sure you type the command in
+exactly as it appears here.
+If you have an open PCIe slot, you can try installing a PCIe to SATA
+expansion card. You can find them at online retailers like Amazon and
+Newegg.
+Visit your motherboard manufacturer's website and download the
+latest version of BIOS. If you're using Windows to install it, open the
+file and select Update. Wait for the new drivers to install, then select
+Yes to restart your computer. If you're using another method to
+update BIOS, or you're updating a system other than Windows, check
+out Lifewire's complete guide to updating BIOS.
+Was this page helpful?
+>
+Motherboard Ports: What They Are and How They
+Work
+Learn about internal and external motherboard ports
+By   Updated on November 18, 2021   Reviewed by 
+COMPUTERS, LAPTOPS & TABLETS ACCESSORIES & HARDWARE 32
+Briley S. Kenney Michael Barton Heine Jr
+Important: Installing and removing devices from the internal
+ports on a motherboard requires technical knowledge. It’s
+important to handle related components and the motherboard
+carefully to avoid damaging them.
+CPU socket - Where the CPU or processor plugs in.1.
+CPU power connector - Power cable connection for the CPU.2.
+ATX power connector - Power cable connection for the system.3.
+DIMM/RAM Memory slots - Connectors for system memory or
+RAM.
+4.
+PCIe slots (x16, x2, x1) - Expansion card slots, including the
+graphics card.
+5.
+M.2 connection - Solid-state drive connection.6.
+SATA ports - Modern internal hard drive ports.7.
+Front panel connector - Connection for USB, and audio ports
+on the front or top of the case.
+8.
+Front panel header - Connection for LED/RGB lighting, power
+switch, and reset switch.
+9.
+USB headers (3.1, 2. etc.) - Connection for rear USB ports on
+the motherboard.
+10.
+CMOS battery - Bios battery for when there’s no system power.11.
+Fan headers - Connection for the case and system fans.12.
+PS/2 - Used for older PS/2 interface keyboards.1.
+USB - Connection for USB peripherals including keyboards,
+mice, hard drives, audio equipment, and more.
+2.
+HDMI/DisplayPort/VGA - They’re all video or display
+connectors to output video or audio to a monitor.
+3.
+Ethernet /RJ-45 - Connection for wired internet.4.
+Analog/Digital Audio - Connections for speakers and digital
+audio equipment, including home theater systems.
+5.
+How can you check which motherboard you have?
+How can you add more SATA ports to a motherboard?
+How can you update a motherboard's BIOS?
+Tech for Humans
+Hit Refresh on Your Tech News
+Follow Us
+Lifewire is part of the Dotdash Meredith publishing family.
+SUBSCRIBE
+NEWS
+WHAT TO BUY
+HOW TO
+FEATURES
+ABOUT US
+About Us Privacy Policy
+Editorial Guidelines Terms of Service
+Careers Advertise
+Contact EU Privacy
+ACCESSORIES &
+HARDWARE
+The Quick Guide to
+Webcams
+Keyboards & Mice
+Monitors
+Cards
+HDD & SSD
+Printers & Scanners
+Raspberry Pi
+TECH FOR HUMANS NEWS WHAT TO BUY HOW TO FEATURES ABOUT US
+NEWSLETTER!
+Stay Safe: Tornado Alert Apps 6 Plant Identification Apps to Try

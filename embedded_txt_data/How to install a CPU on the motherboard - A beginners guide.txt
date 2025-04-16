@@ -1,0 +1,139 @@
+Join Our Team | Our Audience | About Us | Press & Events | Contact Us
+Follow Us      
+Advertising | Careers | Terms | Privacy | Policies
+XDA is part of the Valnet Publishing Group
+Copyright © 2025 Valnet Inc.
+Trending Ryzen 9 9950X3D  RTX 5070  Windows 11  Gaming  Forums
+B…Karthik Iyer & Matthew Connatser… – Updated Feb 3, 2024 Sign In To Your XDA Account 
+You just bought a new processor, a shiny new motherboard, and a new graphics card (that probably
+set you back quite a bit sadly). Great! What's next? Grabbing all the new components and putting
+them together to build a new computer. The first thing you need to do is toss that CPU on the
+motherboard to bring your PC to life. Installing a CPU is like putting the brains into your computer.
+Fortunately, it's a fairly simple task and there's no need to stress. You are less likely to make a
+mistake and mess up the CPU installation as long as you pay attention to a few important things.
+Prerequisites
+Things you'll need to install a CPU
+You really only need just the CPU and motherboard to perform the steps mentioned in this guide,
+but let's look at a couple of other things that you might want to grab, and also some things to
+consider while picking up the parts if you haven't already.
+Thermal Paste: You'll need a thermal paste after installing the CPU, especially if you are
+planning to install the motherboard and mount the CPU cooler right after. You can, however,
+ignore it if your CPU cooler already has some pre-applied paste.
+CPU Cooler: It goes without saying that you need a CPU cooler to make sure the CPU doesn't
+overheat. This isn't optional, so be sure to grab either an air cooler or a liquid cooler.
+A compatible motherboard: Not all CPUs work with all the motherboards on the market. A
+lot of CPUs drop into different CPU sockets on the board, and they need dedicated and
+compatible chipsets to work too. Intel's 12th and 13th Gen CPUs are compatible with LGA
+1700 motherboards from the 600 and 700 series, Ryzen 7000 CPUs are only compatible with
+AM5 motherboards using a 600 series chipset, and Ryzen 1000 to 5000 CPUs are compatible
+with AM4 motherboards using the 300, 400, or 500 series chipsets.
+A clean working area: You do not want to accidentally get something into a CPU socket.
+Wherever you're doing this, make sure there aren't any liquids or any materials that could
+potentially damage the socket.
+And that's pretty much it for the pre-requisites. Installing just the CPU is a tool-free operation,
+though installing the CPU cooler (the next step) usually requires at least a screwdriver.
+How to install a CPU
+A simple process that only takes a few minutes
+1. Look for the CPU socket on the motherboard that is located at the center towards the top
+next to the RAM slots.
+2. Place your finger or thumb on the metal lever on the right side, and push it down while
+moving it slightly away from the socket. For LGA 1700 and AM5 motherboards, you just need
+to lift this arm up enough that it frees the metal frame covering the CPU socket. For AM4
+motherboards, make sure this arm is pointing directly upwards.
+3. Pick up the CPU by only holding on to its sides, and prepare to insert it into the socket. Avoid
+touching any pins on the motherboard or CPU.
+4. Look for a small triangle indicator on the corner of the CPU and the socket and align them
+properly.
+5. Place the CPU on the socket, ensuring it sits easily and lays flat without having to apply any
+external force or pressure.
+6. If your motherboard has an LGA socket, then you first need to lower the metal frame onto
+the CPU, and use the metal lever to secure the metal frame back into its original position.
+Those using a motherboard with a PGA socket (such as an AM4) simply need to lower the arm
+down completely to hold the CPU in place. You'll have to apply some force in either case, so
+keep that in mind.
+Closing thoughts
+Once you're done installing the CPU and all the other core components on the motherboard such as
+the RAM and the SSD, it's time to install the CPU cooler (or at least some parts of it), and put this
+collection of hardware into the case. After that, it's just installing the GPU, plugging in some cables,
+and you're done building the PC.
+The images featured in this guide are for LGA style sockets like LGA 1700 and AM5, but the process
+is pretty similar for PGA sockets like AM4 and AM3. The process of installing enthusiast chips like
+the AMD Threadripper and Intel's Xeon CPUs is slightly different, but you probably already know
+how to install a CPU if you're dealing with those chips.
+CPU PCs Intel
+Follow Like
+X⼝間
+Installing a CPU on the motherboard is a lot easier if you do it outside the PC case, so do it
+before mounting the motherboard inside the case. This will give you more space to work
+with instead of having to restrict yourself with the limited space inside the chassis. If
+you're installing a new CPU in an existing build, then we recommend taking out the
+motherboard first.
+Tip
+Follow Like  Share
+Readers like you help support XDA. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+
+
+ RECOMMENDED
+Nvidia's tight rope pricing is finally
+starting to fray
+Gamers may want the cards, but not at these prices.
+2 days ago  2
+6 best open-source options for project
+management
+Open source tools are great for every aspect of
+computing.
+2 days ago  3
+5 reasons Podman is better than
+Docker for self-host enthusiasts
+If you're a self-host enthusiast and you're weighing up
+Docker versus Podman, I strongly recommend Podman.
+1 day ago  7
+5 productivity hacks I discovered after
+testing dozens of personal knowledge
+management tools
+Actionable productivity tricks I found using different PKM
+tools
+1 day ago 
+6 CPUs and GPUs I regret not buying at
+launch
+Only know you love her when you let her go
+21 hours ago  2
+How I replaced all these streaming
+services with one self-hosted app
+Cutting the online streaming cord with this one free self-
+hosted app.
+2 days ago  29
+Nvidia
+Open Source
+Software and Services
+Productivity & Creativity Tools
+GPU
+Software and Services
+Today's Best Deals
+See More
+Pick up this space-saving
+mini PC for everyday tasks
+as it drops to just $111
+4 hours ago
+This week's hot PC gaming
+Steam deals Apr.6-12
+5 hours ago
+This Seagate external
+drive gives you a massive
+14TB of storage for only…
+$2007 hours ago
+Trending Now
+Grab this Crucial 1TB M.2
+SSD for less as it drop to its
+lowest price
+The OneXFly F1 Pro is the
+best PC gaming handheld
+I've used —  but there's a…
+catch
+I ignored these 5 backup
+strategies until my hard
+drive died
+How to install a CPU on the motherboard: A
+beginners guide
+
+ Sign In Now

@@ -1,0 +1,166 @@
+HOT TOPICS Best laptops Best VPN Best antivirus Best SSDs Best monitors Laptop deals Desktop PC deals Newsletters
+When you purchase through links in our articles, we may earn a small commission. This doesn't aﬀect our editorial independence.
+PCWorld helps you navigate the PC ecosystem to ﬁnd the products you want and the
+advice you need to get the job done.
+POLICIES
+Privacy Policy
+Cookie Policy
+Copyright Notice
+European Privacy Settings
+Member Preferences
+Editorial independence
+Licensing & Eprints
+California: Do not Sell my Personal Info
+ABOUT
+About Us
+Advertise
+Ad Choice
+Contact Us
+Foundry Careers
+GamePro
+Smart Answers
+PCWORLD CATEGORIES
+Business
+Laptop
+Mobile
+PC Hardware
+Storage
+Deals
+TechHive
+SUBSCRIBE
+Digital Magazine - Subscribe
+Digital Magazine - Info
+Gift Subscription
+Newsletters
+Copyright © 2025 IDG Communications, Inc. Explore the Foundry Network + Privacy Settings
+Home / How-To / PCs & Components How-To
+HOW-TO
+How to install a hard drive in your
+computerDon't be afraid of cracking open your desktop PC's case. Installing a new hard drive is a basic task
+anyone can accomplish.
+By Brad Chacos and Marco Chiappetta
+APR 5, 2021 8:43 AM PDT
+Image: Marco Chiappetta/IDG
+How to set up new SSDs/HDDs
+in Windows? Simple. Use EaseUS
+Partition Master, powered by AI,
+to initialize the hard drive
+without eﬀort. Except for it, it
+helps to create, resize, format,
+and extend partitions to any size
+or convert partition/disk into a selected format like MBR or GPT . So,
+the best disk management tool, totally FREE, is handy for you.
+Free Download
+Installing an internal hard drive is one of the more
+straightforward upgrades out there—and  is often a better option than
+using external drives that may be dropped or misplaced. 
+The process usually requires no more than mounting it, connecting a
+couple of cables, and formatting the drive for use. Still, there are a few
+things you should know to make installation as smooth as possible. 
+Installing a hard drive in your PC doesn’t necessarily follow the same
+procedure as installing an SSD. If you’ve opted for a solid-state drive, be
+sure to check out our companion guides explaining how to install an SSD
+in a desktop and a laptop. SSDs tend to oﬀer much faster speeds than
+hard drives, but hard drives oﬀer signiﬁcantly more capacity at lower
+prices.
+PROMOTION
+EaseUS Partition Master Free – Install new SSDs/HHDs in one
+click
+LEARN  MORE
+Before we dive into the nitty-gritty details, if you’re looking for a hard
+drive to install in your computer, these are some highly regarded options.
+All three spin at 7 ,200 revolutions per minute (RPM), the fastest speed
+available in consumer hard drives.
+Seagate BarraCuda: 2TB for $55, 4TB for $90, 8TB for $140, more
+sizes available.
+Toshiba X300: 4TB for $95, more sizes available
+WD Black: 1TB for $70, 2TB for $100, 8TB for $250, more sizes
+available.
+Now let’ s get this hard drive installed in your computer.
+Drive cages, bays, and mounting options
+Internal 3.5-inch hard disk drives are typically mounted in a drive cage or
+in an available drive bay. Placement and orientation of the cages or bays
+will vary from case to case. The most common location is at the lower
+front, near the intake fans and away from other components. Drive
+cages/bays will most often be mounted perpendicular to the bottom of
+the chassis, while drives mounted in the cages usually sit parallel to the
+bottom of the case.
+In mainstream cases, drive connectors will typically point to the rear. In
+enthusiast-class cases, it’ s becoming more common to see the drive’ s
+connectors facing the right side, making it easier to route and hide cables
+behind the motherboard tray. Some enthusiast-class also cases give users
+the ability to remove drive cages or to mount them in diﬀerent positions
+to optimize air ﬂow and simplify cable management.
+Mounting your hard drive
+Physically mounting the hard drive in a PC is probably the most diﬃcult
+part of the installation process.
+Securing the drive to a cage usually requires four screws on the sides or
+bottom of the drive. Many cases—especially  enthusiast cases—use  tool-
+less trays that hold the drives with simple pins and clips.
+Using screws is the more robust mounting method, but tool-less trays are
+ﬁne for systems that won’t be moved around much.
+Drives last longer when they stay nice and cool. When mounting drives in
+a system, try to leave as much space between them as possible to
+maximize airﬂow over the tops and bottoms. Positioning the drives
+directly in front of an intake fan also helps.
+Connect the hard drives with SATA
+Once the drive is mounted, connecting it to your system is quick and
+easy.
+Virtually all new desktop hard drives sold today use the SATA interface
+(unless you’re dealing with servers). SATA uses simple cables that are
+keyed to ﬁt on the drive and motherboard connector one way.
+Connect one end of the SATA cable to the drive, and the other end to an
+available SATA port on your motherboard, and you’re halfway there.
+You may ﬁnd the SATA cables included with your new drive or
+motherboard feature diﬀerent connectors: straight ends or right-angle (L-
+shaped). Some may have metal retention clips, while others do not. The
+shape of the connector makes no diﬀerence in performance.
+I like to use SATA cables with right-angle connectors on the drive side,
+provided there is adequate clearance between any drives in the system.
+Using right-angle connectors on the motherboard side will will result in
+blocked ports, because the connector may overlap adjacent ports.
+Try to ﬁnd SATA cables with metal retention clips, because they help keep
+the connectors secured. Most SATA 3 (6-gigabit)-compliant cables will
+usually come with the clips.
+When you’re done connecting the SATA cable, you’ll have to connect the
+drive to your power supply unit (PSU). The  SATA power cable from your
+PSU, like the SATA data cable, is keyed to ﬁt onto the drive one-way. As
+long as you don’t force it, there’ s really no way to mess it up.
+Prepare the hard drive for use
+Once you’ve mounted and connected the drive, power up your system
+and enter the BIOS/UEFI. You can usually access the BIOS/UEFI by
+pressing the DEL or F2 keys right after powering up the system. Usually,
+your system will display a message along the lines of “Press DEL to enter
+Setup.” Consult your motherboard’ s manual for the correct key.
+In the BIOS, go to the standard System Settings menu or the Integrated
+Peripherals > SATA menu to see all of the drives installed in the system. If
+all of your drive controllers are enabled and the drive is properly
+connected (and functional), it should be listed in the BIOS. 
+If the drive isn’t listed, shut down your PC. Double-check all of the
+connections, boot into the BIOS and check again. If the drive still isn’t
+showing up and all the connections are secure, try plugging the SATA
+data cable into a diﬀerent port on the motherboard.
+To conﬁrm that Windows recognizes the drive, open up Device Manager.
+In Windows 10, right-click the Windows button on your desktop and
+select Device Manager. Check for the drive in the Disk Drives section. 
+When you boot into Windows after installing the drive, you may see the
+New Hardware Found wizard pop up if the drive is detected. The last
+thing you need to do is partition and format the drive.
+And with that, the drive should be available for use. If you split the drive
+up into multiple partitions, you should see several drives appear in File
+Explorer, each with its own drive letter and label.
+Screws are the best way to secure your hard drive into your case’ s drive cage. Magnet-
+tipped screw drivers can help keep you from dropping screws in diﬃcult-to-reach
+places.
+Some cases come with tool-less brackets that make mounting hard drives really easy.
+However, these brackets are often less secure than traditional screws.
+This hard drive is ﬂipped upside-down to show its parts. Seven of the 10 screw holes are
+circled in red, while SATA power and data connections are circled in blue and green,
+respectively.
+Some SATA data cables come with L-shaped ends, which can help keep cables tidy.
+The SATA power cable connection looks similar to the data cable, but is longer. The
+connector is keyed to ﬁt only one way.
+The UEFI BIOS will show all hard drives that are connected correctly and detected by the
+system. BIOS and UEFI interfaces can diﬀer based on the motherboard make and model,
+so check your motherboard manual or manufacturer website for details.
+NEWS  BEST PICKS  REVIEWS  HOW-TO  DEALS LAPTOPS WINDOWS SECURITY TECHHIVE  MORE

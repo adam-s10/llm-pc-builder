@@ -1,7 +1,7 @@
 import os
 from pypdf import PdfReader
 
-PATH = 'test_data/'
+PATH = 'pdf_data/'
 
 for file in os.listdir(PATH):
     reader = PdfReader(os.path.join(PATH, file))

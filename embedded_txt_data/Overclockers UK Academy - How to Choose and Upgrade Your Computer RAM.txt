@@ -1,0 +1,261 @@
+OcUK Forum Contact Overclockers Shop
+Overclockers UK Academy: How to Choose and Upgrade Your Computer RAM
+  GAMINGGAMINGGAMINGGAMING GAMING HARDWAREGAMING HARDWAREGAMING HARDWAREGAMING HARDWARE
+OVERCLOCKERS UK ACADEMY: HOW TO CHOOSE AND UPGRADE YOUR
+COMPUTER RAM
+August 7, 2023
+RUTH ROWLEY
+AUTHOR 8 min read
+8 min read
+  GAMINGGAMINGGAMINGGAMING GAMING HARDWAREGAMING HARDWAREGAMING HARDWAREGAMING HARDWARE
+RUTH ROWLEY
+AUTHOR
+Ruth has been with Overclockers UK for over a year and has gone on to write about everything ranging from
+in-depth hardware guides to monthly game releases. Outside of writing blog posts, she can be found wrapped
+in a blanket with her black cat, engrossed in a book or playing life-simulation games such as The Sims, Stardew
+Valley, and Animal Crossing.  
+Read More >>Read More >>Read More >>Read More >>
+< PREVIOUS NEXT >
+0
+Article Rating
+  Subscribe 
+0000 COMMENTS COMMENTS COMMENTS COMMENTS
+COLLECT FROM US
+Our retail shop is no longer available, but
+you can shop online and collect from
+reception at Overclockers UK HQ in
+Stoke-on-Trent
+Opening Times
+Monday - Saturday
+09:00 - 16:30
+JOIN THE COMMUNITY
+     
+  
+STAY UP TO DATE
+Keep me up to date with the latest news, product
+launches and promotions
+!SIGN ME UP
+SHOP SERVICE
+Contact Information
+Delivery Information
+Track Your Delivery
+Support
+Returns
+Gift Cards
+System FAQ
+Finance FAQ
+T erm & Conditions
+Modern Slavery Statement
+Privacy Policy
+Klarna FAQ
+"CONTACT US
+INFORMATION
+About us
+Careers
+Blog
+Newsletter
+Afﬁliate Program
+Welcome to PC Gaming
+Build your own Computer
+Sell T o Caseking Group
+Student Discount
+Renda Business Solutions
+HTML Sitemap
+YOU CAN PAY WITH
+   
+ 
+WE CAN DELIVER WITH
+  
+FLAGSHIP BRANDSTORES
+Brands |  8Pack |  Aerocool |  AMD |  APNX |  Asus |  be quiet! |  BitFenix |  Corsair |  Ducky |
+EK Water Blocks |  Endgame Gear |  Gigabyte |  Glorious |  HAVN |  HYTE |  Inﬁn8 |  Intel |  Kolink
+|  Lian Li |  MSI |  Nitro Concepts |  noblechairs |  Overclockers UK |  Phanteks |  Raijintek |  Refract
+|  Samsung |  Sapphire |  SteelSeries |  Streamplify |  Super Flower |  T eam Group |  Thermal Grizzly
+|  ThunderX3 |  WD |  Zotac
+TOP CATEGORIES
+NVIDIA Graphics Cards |  Gaming PCs |  Gaming Chairs |  Gaming Keyboards |  AMD Graphics Cards
+|  Gaming Mice |  Gaming Headsets |  Gaming Laptops |  Streaming
+Credit subject to status and affordability. T erms & Conditions Apply. Ocuk Limited trading as
+Overclockers UK is a credit broker, not a lender, and is Authorised and Regulated by the Financial
+Conduct Authority.
+Credit is provided by Novuna Personal Finance, a trading style of Mitsubishi HC Capital (UK) PLC,
+authorised and regulated by the Financial Conduct Authority. Financial Services Register no. 704348.
+The register can be accessed through http://www.fca.org.uk
+Company Number: 03869866 | VAT Number: GB747963969 | EORI Number: GB747963969000
+Copyright © 2025 OCUK Limited
+Blog Home News How T o Buyers Guide Hardware Gaming Features Search
+Blog
+ Gaming
+ Share Post ShareShare Email
+The    Overclockers UK AcademyOverclockers UK AcademyOverclockers UK AcademyOverclockers UK Academy  is back with another in-depth helpful guide all about the wonderful world of PC
+hardware. 
+In this blog post, we’ll be covering everything RAM related. T aking you through what exactly RAM is, all the terminology
+you need to know, along with how to choose and upgrade your memory.  
+What is RAM?
+Before we start, let’s go back to the basics. 
+RAM, or Random Access MemoryRandom Access MemoryRandom Access MemoryRandom Access Memory , is a type of volatile memory. It is responsible for temporarily storing and processing
+data. As a volatile memory solution, data is only stored on the RAM whilst your PC is turned on. Once it’s turned off, all
+the data is lost.  
+There are a few key terms and features that you need to be aware of when it comes to selecting your PC’s memory.  
+Standards:
+There are several different standards of RAM, including:  
+DDRDDRDDRDDR 
+DDR2DDR2DDR2DDR2 
+DDR3DDR3DDR3DDR3 
+DDR4DDR4DDR4DDR4 
+DDR5 DDR5 DDR5 DDR5   
+DDR5 is the most recent of the bunch, featuring double the capacity and density of previous generations, whilst also
+reducing power consumption.  
+You can take a deeper look at the differences between the
+DDR4 and DDR5 standards in our dedicated blog article. 
+Read More
+Conﬁgurations:
+Along with different standards, there are also multiple RAM conﬁgurations. The RAM conﬁguration refers to how many
+modules you have. There are: 
+Single-Channel  Single-Channel  Single-Channel  Single-Channel  
+Dual-Channel Dual-Channel Dual-Channel Dual-Channel 
+Quad-Channel Quad-Channel Quad-Channel Quad-Channel 
+Octo-Channel  Octo-Channel  Octo-Channel  Octo-Channel  
+Each type of conﬁguration boasts speciﬁc advantages for gamers, streamers, and creatives. Therefore, you’ll need to
+make sure you select the right memory conﬁguration for what you need.  
+Thankfully, to make it easier for you, we’ve created a
+dedicated blog guide taking you through each RAM
+conﬁguration.  
+Read More
+Capacity:
+The capacity of your RAM kit refers to the amount of memory it has and is often measured in Gigabytes (GBGBGBGB). The higher
+this number, the greater amount of data it can store and process. You can ﬁnd RAM kits with varying different capacities,
+depending on the conﬁguration. 
+The most common capacities include:  
+8GB8GB8GB8GB 
+16GB16GB16GB16GB 
+32GB32GB32GB32GB 
+64GB64GB64GB64GB 
+RAM Speed:
+RAM speed refers to how quickly it can read your data from the CPU and is typically measured in Megahertz (MHz)(MHz)(MHz)(MHz) . The
+higher the speed, the more clock cycles it can perform and the quicker it is at processing and storing your information. For
+example, if your RAM is measured at 3200MHz, this means it can write at up to 3.2 billion clock cycles per second.  
+Transfer Rate:
+Measured in Megabytes per second (MBps)MBps)MBps)MBps) , the    transfer rate refers how to much data your RAM can transfer.  
+CAS Timings:
+CAS Timing is how quickly the RAM responds to your processor requesting an action/data. They are often displayed as a
+set of numbers, such as 16-20-20-38, can be broken down into four different parts: 
+CAS Latency (CL):CAS Latency (CL):CAS Latency (CL):CAS Latency (CL):  how quickly it takes for the RAM to have the data ready 
+Row Column Delay (tRCD):Row Column Delay (tRCD):Row Column Delay (tRCD):Row Column Delay (tRCD):  how long it takes for the RAM to read this data 
+Row Precharge (tRP):Row Precharge (tRP):Row Precharge (tRP):Row Precharge (tRP):  the time it takes for a new row of data to be ready 
+Row Active Time (tRAS):Row Active Time (tRAS):Row Active Time (tRAS):Row Active Time (tRAS):  the minimum time it takes for a row of data to be active 
+RAM Latency:
+Finally, RAM latency refers to the delay in-between the transfer of data from the RAM to the processor. 
+T o achieve the best possible performance, we recommend you look for a RAM kit with a low latency, but high RAM speed.
+You can work out the latency by multiplying the CAS latency by 2000 and then times this by the data rate. The lower the
+time is in nanoseconds (nsnsnsns), the faster the RAM is. 
+For example, a RAM kit with 6000MHz and a CAS latency of 30, would reach speeds of 10ns. There are plenty of handy
+online webpages that can help you work out the latency of your memory kit, such as xbitslabs RAM Speed Calculator.  
+What to Consider Before Y ou Upgrade 
+Now that we’ve covered all the key terms and features, let’s move on to what you need to consider before you upgrade. 
+Speed vs Capacity:
+When selecting your RAM kit, speed, and capacity need to be balanced. This reduces the chance of any complex
+problems, such as bottlenecking or a notable drop in performance.
+In addition to this, you’ll also want to take into consideration your workload and what you’ll primarily be using your PC
+for.
+Gaming:  
+If it’s gaming, you’ll want to focus on speed.  
+With most games requiring between 8GB and 16GB, we recommend a RAM kit with 32GB. This ensures you can reap all
+the beneﬁts of fast, high-quality RAM, including quick response times and virtually no input lag during critical in-game
+moments.  
+Plus, a RAM kit with a high-rated speed can even help to enhance your FPS (frame rates per second), giving you a notable
+boost whilst in-game.  
+Work:
+Alternatively, for work, you’ll want a hefty capacity to ensure your PC is up to the task of running multiple intensive
+applications and tabs simultaneously.  
+How Many Sticks of RAM Do Y ou Need?
+We recommend you only buy one kit of RAM, that features the exact number of RAM modules and required
+conﬁguration.  
+Dual-channel or higher will perform better than single-channel as there is more than one lane for the memory to travel
+across at once. Unlike single-channel, there’s no waiting for the previous request to be completed.  
+However, as you increase your RAM conﬁguration, you also need to ensure that your processor and motherboard are
+capable of running that type of conﬁguration. If they aren’t, you risk poor, unstable performance and will increase the risk
+of a lot of problems and performance loss.  
+The Silicon Lottery:
+When it comes to the wonderful world of RAM, you may have heard of the phrase ‘Silicon Lottery’ , especially when it
+comes to your CPU’s IMC (Integrated Memory Controller).  
+The IMC is an integrated part of your processor and affects the RAM compatibility, speed, and capacity. For example, the
+Intel i9 13900KS only supports up to a max RAM speed of 5600MHz, this differs slightly depending on the number of
+modules you have installed.  
+If you’ve brought a RAM kit rated at 7600MHz, but your processor IMC or motherboard doesn’t support these speeds,
+then you won’t be able to achieve this. Before you purchase any RAM kit, we recommend that you check your
+motherboard’s memory QBL or the manufacturer’s qualiﬁed vendor list. In this list, you’ll be able to see all the tested and
+supported RAM kits that will work on that motherboard, with a speciﬁc CPU.  
+Overclocking – XMP and EXPO:
+Your RAM kit will most likely come with built-in overclocking pre-sets. These settings can alter the voltage, timings, sub-
+timings, and even the speed of your RAM kit.  
+The overclocking proﬁles you can ﬁnd include: 
+XMP (Extreme Memory Proﬁle)XMP (Extreme Memory Proﬁle)XMP (Extreme Memory Proﬁle)XMP (Extreme Memory Proﬁle)  – allows you to overclock your memory with all Intel processors.  
+DOCP (Direct Overclocking Proﬁle)DOCP (Direct Overclocking Proﬁle)DOCP (Direct Overclocking Proﬁle)DOCP (Direct Overclocking Proﬁle)  – made by ASUS, allows you to overlock your memory on AMD motherboards. 
+EOCP (Extended Overclocking Proﬁle)EOCP (Extended Overclocking Proﬁle)EOCP (Extended Overclocking Proﬁle)EOCP (Extended Overclocking Proﬁle)  – made by Gigabyte, also allows you to overclock your memory on AMD
+motherboards.  
+EXPOEXPOEXPOEXPO (Extended Proﬁles for Overclocking) (Extended Proﬁles for Overclocking) (Extended Proﬁles for Overclocking) (Extended Proﬁles for Overclocking)  – AMD’s alternate to XMP and can be used with AMD processors. 
+All high-powered RAM kits utilise these pre-set proﬁles and have to be manually turned on in your motherboard’s BIOS.
+You don’t have to enable them in your BIOS, but if you don’t, your memory will simply perform at its stock speeds. 
+Before you adjust any settings by overclocking, we do recommend that you check your hardware’s manufacturer’s
+warranty.  
+A Few Final Thoughts
+We’ve shared a whole lot of information throughout this blog post, so we’ve decided to keep it short and sweet at the end
+by giving you a little rundown. 
+Ultimately, before you upgrade your RAM you need to check both your motherboard and processor’s speciﬁcation to
+ensure its compatible. Utilise the QBL or vendor list for tested and compatible RAM kits with your chosen components.  
+What’s more, you need to consider what’s more important to you. Do you want ultra-fast speeds or hefty capacities?
+What you choose will all depend on this.  
+Selecting the perfect RAM kit for your gaming PC helps to ensure optimal performance, allowing you to focus on the
+more important things. That is, of course, exploring your favourite gaming worlds or defeating your enemies in some one-
+on-one high stakes combat. 
+How to Install Y our RAM Upgrade
+If you have chosen to upgrade your RAM, then we’ve got a
+dedicated how-to video and step-by-step blog guide in the
+Overclockers UK AcademyOverclockers UK AcademyOverclockers UK AcademyOverclockers UK Academy , designed to take you
+through the installation process.  
+Read More
+TLDR: Watch How to Upgrade Y our RAM Instead!
+Sometimes we just don’t have time for reading, thankfully every Overclockers UK AcademyOverclockers UK AcademyOverclockers UK AcademyOverclockers UK Academy  blog post comes with a
+corresponding YouTube video.  
+You can watch our video guide on how to choose and upgrade your RAM in the video linked below. 
+OVERCLOCKERSUKACADEMYDOMINATORPLATINONROOVENGEANCEHOWTOUPGRADECOMPUTERRAM
+Watch on
+How to Easily Upgrade your PC and Fix Memory Issues | Overclockers Academy
+Share
+Watch on
+How to Choose and Upgrade to the Best RAM for Your PC | Overclockers Academy
+Share
+ Share Post ShareShare Email
+[+][+][+][+]
+Be the First to Comment!
+RUTH ROWLEY
+AUTHOR
+Ruth has been with Overclockers UK for over a
+year and has gone on to write about everything
+ranging from in-depth hardware guides to
+monthly game releases. Outside of writing blog
+posts, she can be found wrapped in a blanket with
+her black cat, engrossed in a book or playing life-
+simulation games such as The Sims, Stardew
+Valley, and Animal Crossing.  
+Read More >>Read More >>Read More >>Read More >>
+MORE POSTS BY RUTH ROWLEY
+Weekend Gaming Picks: The Best
+Management Sims to Play Right…
+NowApr 12, 2025
+OcUK Podcast #002 - ROG Ally
+vs Steam Deck vs Switch 2
+Apr 11, 2025
+OcUK Podcast #001: inZOI's
+Demanding Specs or Are Gamin…
+PCs T oo Powerful?Apr 11, 2025
+Introducing the OcUK Podcast -
+Episode #000
+Apr 11, 2025
+Everything You Need to Know
+About Clair Obscur: Expedition…
+33Apr 10, 2025
+# Wishlist
+PC Systems Laptops Gaming Simulation Creators PC Components Cases & Modding Cooling Monitors Peripherals Networking Deals
+$ Account %
