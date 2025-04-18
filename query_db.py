@@ -8,10 +8,19 @@ from embedding_function import GeminiEmbeddingFunction
 
 load_dotenv()
 
-CHROMA_PATH = r'chroma_db'
+CHROMA_PATH = r'part_installation_db'
 
 google_client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
 chroma_client = chromadb.PersistentClient(CHROMA_PATH)
+
+
+def get_query_result(query_):
+    fn = GeminiEmbeddingFunction()
+    fn.document_mode = False
+    r = chroma_client.get_collection(name='building_pcs', embedding_function=fn).query(query_texts=[query_],
+                                                                                         n_results=5)
+    [ans] = r['documents']
+    return ans
 
 
 # Search the Chroma DB using the specified query.

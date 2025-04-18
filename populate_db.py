@@ -9,21 +9,11 @@ from embedding_function import GeminiEmbeddingFunction
 from dotenv import load_dotenv
 import os
 
-# TODO: get all info added to the db - done
-# Ones embedded: SSD, HDD, M.2, CPU, CPU cooler (air and aio), RAM (info about OC included), GPU, fans, MB, PSU
-
-# TODO: investigate trigger words for RAG add more documents to the vector db - we have a ok solution
-
-# TODO: create csvs for suggesting the pc - claude/deepseek/perplexity
-
-# TODO: find prebuilt websites
-# TODO: streamlit
-
 load_dotenv()
 
 DATA_PATH = 'txt_data/'  # will be empty as files moved to embedded_txt_data/ after embedding complete
 print(os.listdir(DATA_PATH))
-CHROMA_PATH = r'chroma_db'
+CHROMA_PATH = r'part_installation_db'
 
 google_client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
 chroma_client = chromadb.PersistentClient(CHROMA_PATH)
