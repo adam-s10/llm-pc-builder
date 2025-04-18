@@ -9,11 +9,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-is_retriable = lambda e: (isinstance(e, genai.errors.APIError) and e.code in {429, 503})
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
     # Specify whether to generate embeddings for documents, or queries
     document_mode = True
+    is_retriable = lambda e: (isinstance(e, genai.errors.APIError) and e.code in {429, 503})
 
     @retry.Retry(predicate=is_retriable)
     def __call__(self, input_: Documents) -> Embeddings:
