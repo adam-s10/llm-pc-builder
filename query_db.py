@@ -14,11 +14,11 @@ google_client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
 chroma_client = chromadb.PersistentClient(CHROMA_PATH)
 
 
-def get_query_result(query_):
+def get_query_result(query_, n_results):
     fn = GeminiEmbeddingFunction()
     fn.document_mode = False
-    r = chroma_client.get_collection(name='building_pcs', embedding_function=fn).query(query_texts=[query_],
-                                                                                         n_results=5)
+    r = (chroma_client.get_collection(name='building_pcs', embedding_function=fn)
+         .query(query_texts=[query_], n_results=n_results))
     [ans] = r['documents']
     return ans
 
